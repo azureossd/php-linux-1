@@ -1,6 +1,6 @@
 <?php
 /*
- * Azure App Service L200 Lab
+ * Azure App Service Specialist Lab
  * Open Source Technologies - PHP Linux
  */
 
